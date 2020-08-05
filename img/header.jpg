@@ -1,0 +1,2395 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0021)https://adetonfo.com/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+<title>Adetonfo.com-Free Marketplace for Ghanaians</title>
+<meta name="title" content="Adetonfo.com-Free Marketplace for Ghanaians">
+<meta name="description" content="Buy and Sell Anything"><meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="Mon, 01 Jul 1970 00:00:00 GMT">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+
+<link rel="shortcut icon" type="image/x-icon" href="https://adetonfo.com/oc-content/themes/alpha/images/favicons/favicon.ico">
+<link rel="icon" href="https://adetonfo.com/oc-content/themes/alpha/images/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="icon" href="https://adetonfo.com/oc-content/themes/alpha/images/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://adetonfo.com/oc-content/themes/alpha/images/favicons/apple-touch-icon.png">
+<!--<link rel="mask-icon" href="https://adetonfo.com/oc-content/themes/alpha/images/favicons/safari-pinned-tab.svg" color="#8bc72a">-->
+<!--<meta name="theme-color" content="#8bc72a">-->
+<style>
+  .alpCl,body #user-menu li.active a, body #user-menu a:hover, body a, body a:hover {color:#5a257a;}
+  .alpBg,.blg-btn.blg-btn-primary,.bpr-prof .bpr-btn, #img .bx-wrapper .bx-prev:hover:before, #fi_user_new_list button, #img .bx-wrapper .bx-next:hover:before, .post-edit .price-wrap .selection a.active,.tabbernav li.tabberactive a {background:#5a257a!important;color:#fff!important;}
+  .alpBgAf:after {background:#5a257a!important;}
+  .alpBgActive.active {background:#5a257a!important;}
+  body .fancybox-close {background-color:#5a257a!important;}
+  .input-box-check input[type="checkbox"]:checked + label:before,#atr-search .atr-input-box input[type="checkbox"]:checked + label:before, #atr-search .atr-input-box input[type="radio"]:checked + label:before,#atr-form .atr-input-box input[type="checkbox"]:checked + label:before, #atr-form .atr-input-box input[type="radio"]:checked + label:before,.bpr-box-check input[type="checkbox"]:checked + label:before, #gdpr-check.styled .input-box-check input[type="checkbox"]:checked + label:before, .pol-input-box input[type="checkbox"]:checked + label:before, .pol-values:not(.pol-nm-star) .pol-input-box input[type="radio"]:checked + label:before {border-color:#5a257a!important;background-color:#5a257a!important;}
+  #search-sort .user-type a.active, #search-sort .user-type a:hover {border-bottom-color:#5a257a!important;}
+</style>
+
+<script>
+  var alpCl = '.alpCl,body #user-menu li.active a, body #user-menu a:hover, body a, body a:hover';
+  var alpBg = '.alpBg,.blg-btn.blg-btn-primary,.bpr-prof .bpr-btn, #img .bx-wrapper .bx-prev:hover:before, #fi_user_new_list button, #img .bx-wrapper .bx-next:hover:before, .post-edit .price-wrap .selection a.active,.tabbernav li.tabberactive a';
+  var alpBgAf= '.alpBgAf:after';
+  var alpBgAc= '.alpBgActive.active';
+  var alpBr= '.alpBr';
+  var alpBrBg= '.input-box-check input[type="checkbox"]:checked + label:before,#atr-search .atr-input-box input[type="checkbox"]:checked + label:before, #atr-search .atr-input-box input[type="radio"]:checked + label:before,#atr-form .atr-input-box input[type="checkbox"]:checked + label:before, #atr-form .atr-input-box input[type="radio"]:checked + label:before,.bpr-box-check input[type="checkbox"]:checked + label:before, #gdpr-check.styled .input-box-check input[type="checkbox"]:checked + label:before, .pol-input-box input[type="checkbox"]:checked + label:before, .pol-values:not(.pol-nm-star) .pol-input-box input[type="radio"]:checked + label:before';
+  var alpBrBt= '#search-sort .user-type a.active, #search-sort .user-type a:hover';
+</script>
+
+
+<script type="text/javascript">
+  var alpCurrentLocale = 'English (US)';
+  var fileDefaultText = 'No file selected';
+  var fileBtnText     = 'Choose File';
+  var baseDir = "https://adetonfo.com/";
+  var baseSearchUrl = 'https://adetonfo.com/search';
+  var baseAjaxUrl = 'https://adetonfo.com/contact?ajaxRequest=1';
+  var baseAdminDir = 'https://adetonfo.com/oc-admin/index.php';
+  var currentLocation = '';
+  var currentSection = '';
+  var adminLogged = '0';
+  var alpLazy = '1';
+  var alpMasonry = '0';
+  var imgPreviewRatio= 1.333;
+  var searchRewrite = '/search';
+  var ajaxSearch = '1';
+  var ajaxForms = '0';
+  var locationPick = '1';
+  var alpTitleNc = 'Parent category cannot be selected';
+</script>
+
+
+
+
+<meta name="generator" content="Osclass 3.8.0"><link href="./header_files/styles.css" rel="stylesheet" type="text/css">
+<link href="./header_files/style.css" rel="stylesheet" type="text/css"><link href="./header_files/style(1).css" rel="stylesheet" type="text/css">
+<link href="./header_files/responsive.css" rel="stylesheet" type="text/css">
+<link href="./header_files/css" rel="stylesheet" type="text/css">
+<link href="./header_files/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="./header_files/jquery-ui.min.css" rel="stylesheet" type="text/css">
+<link href="./header_files/jquery.fancybox.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="./header_files/jquery.min.js.download"></script>
+<script type="text/javascript" src="./header_files/jquery.fancybox.pack.js.download"></script>
+<script type="text/javascript" src="./header_files/jquery.lazy.min.js.download"></script>
+<script type="text/javascript" src="./header_files/jquery-ui.min.js.download"></script>
+<script type="text/javascript" src="./header_files/global.js.download"></script>
+<style>._3emE9--dark-theme .-S-tR--ff-downloader{background:rgba(30,30,30,.93);border:1px solid rgba(82,82,82,.54);box-shadow:0 4px 7px rgba(30,30,30,.55);color:#fff}._3emE9--dark-theme .-S-tR--ff-downloader ._6_Mtt--header ._2VdJW--minimize-btn{background:#3d4b52}._3emE9--dark-theme .-S-tR--ff-downloader ._6_Mtt--header ._2VdJW--minimize-btn:hover{background:#131415}._3emE9--dark-theme .-S-tR--ff-downloader ._10vpG--footer{background:rgba(30,30,30,.93)}._2mDEx--white-theme .-S-tR--ff-downloader{background:#fff;border:1px solid rgba(82,82,82,.54);box-shadow:0 4px 7px rgba(30,30,30,.55);color:#314c75}._2mDEx--white-theme .-S-tR--ff-downloader ._6_Mtt--header{font-weight:700}._2mDEx--white-theme .-S-tR--ff-downloader ._2dFLA--container ._2bWNS--notice{border:0;color:rgba(0,0,0,.88)}._2mDEx--white-theme .-S-tR--ff-downloader ._10vpG--footer{background:#fff}.-S-tR--ff-downloader{display:block;overflow:hidden;position:fixed;bottom:20px;right:7.1%;width:330px;height:180px;background:rgba(30,30,30,.93);border-radius:2px;color:#fff;z-index:99999999;border:1px solid rgba(82,82,82,.54);box-shadow:0 4px 7px rgba(30,30,30,.55);transition:.5s}.-S-tR--ff-downloader._3M7UQ--minimize{height:62px}.-S-tR--ff-downloader._3M7UQ--minimize .nxuu4--file-info,.-S-tR--ff-downloader._3M7UQ--minimize ._6_Mtt--header{display:none}.-S-tR--ff-downloader ._6_Mtt--header{padding:10px;font-size:17px;font-family:sans-serif}.-S-tR--ff-downloader ._6_Mtt--header ._2VdJW--minimize-btn{float:right;background:#f1ecec;height:20px;width:20px;text-align:center;padding:2px;margin-top:-10px;cursor:pointer}.-S-tR--ff-downloader ._6_Mtt--header ._2VdJW--minimize-btn:hover{background:#e2dede}.-S-tR--ff-downloader ._13XQ2--error{color:red;padding:10px;font-size:12px;line-height:19px}.-S-tR--ff-downloader ._2dFLA--container{position:relative;height:100%}.-S-tR--ff-downloader ._2dFLA--container .nxuu4--file-info{padding:6px 15px 0;font-family:sans-serif}.-S-tR--ff-downloader ._2dFLA--container .nxuu4--file-info div{margin-bottom:5px;width:100%;overflow:hidden}.-S-tR--ff-downloader ._2dFLA--container ._2bWNS--notice{margin-top:21px;font-size:11px}.-S-tR--ff-downloader ._10vpG--footer{width:100%;bottom:0;position:absolute;font-weight:700}.-S-tR--ff-downloader ._10vpG--footer ._2V73d--loader{-webkit-animation:n0BD1--rotation 3.5s linear forwards;animation:n0BD1--rotation 3.5s linear forwards;position:absolute;top:-120px;left:calc(50% - 35px);border-radius:50%;border:5px solid #fff;border-top-color:#a29bfe;height:70px;width:70px;display:flex;justify-content:center;align-items:center}.-S-tR--ff-downloader ._10vpG--footer ._24wjw--loading-bar{width:100%;height:18px;background:#dfe6e9;border-radius:5px}.-S-tR--ff-downloader ._10vpG--footer ._24wjw--loading-bar ._1FVu9--progress-bar{height:100%;background:#8bc34a;border-radius:5px}.-S-tR--ff-downloader ._10vpG--footer ._2KztS--status{margin-top:10px}.-S-tR--ff-downloader ._10vpG--footer ._2KztS--status ._1XilH--state{float:left;font-size:.9em;letter-spacing:1pt;text-transform:uppercase;width:100px;height:20px;position:relative}.-S-tR--ff-downloader ._10vpG--footer ._2KztS--status ._1jiaj--percentage{float:right}._3vFA8--container{height:0;width:100%;position:relative;background:radial-gradient(44.6% 929.87% at 22.02% 63.39%,#ae6fff 0,#8d35fd 100%);cursor:pointer;overflow:hidden;transition:.8s}._3vFA8--container .AeJ0I--row{padding:11px;margin:0 auto;width:-webkit-max-content;width:-moz-max-content;width:max-content}._3vFA8--container .AeJ0I--row ._1yCun--logo{position:relative;width:51px;height:39px;float:left;margin-right:104px;background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTAiIGhlaWdodD0iNDEiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNy40MDQgOC43TDEuNDU0IDM2LjMyNWMtLjI1OC40NDctLjM4Ny42Ny0uNDUxLjgzOWEyLjIzNiAyLjIzNiAwIDAwMS43MzMgMy4wMDFjLjE3OC4wMy40MzYuMDMuOTUyLjAzLjEwNiAwIC4xNTggMCAuMjEtLjAwM2EyLjIzNyAyLjIzNyAwIDAwMS4yNTItLjQ1Mmw2Ljg1OS00LjcyMWMuNDczLS4zLjkwOC0uNjU0IDEuMjk2LTEuMDUyLjM1NC4wOC43MjcuMTg1IDEuMTQ1LjMwMSAxLjk1LjU0NCA0Ljg4MyAxLjM2IDExLjUxNiAxLjM2IDcuNjcyIDAgMTAuNjEtLjg3NCAxMi4xNTQtMS40NzEuMzguMzQzLjc5Ni42NDYgMS4yNDQuOTA0bDcuNDg4IDQuODE0Yy4zMjQuMjA4LjcwMi4zMiAxLjA4OC4zMiAxLjU1IDAgMi41MTgtMS42NzggMS43NDMtMy4wMkwzMy4yNDIgOC43Yy0yLjU3LTQuNDUyLTMuODU2LTYuNjc5LTUuNTI1LTcuNDQzYTUuNzUxIDUuNzUxIDAgMDAtNC43ODggMGMtMS42NjkuNzY0LTIuOTU0IDIuOTktNS41MjUgNy40NDN6bTguNTYyIDIyLjUyNGMtNC4yNDYgMC03LjU0OC0uNTk4LTkuOTI1LTEuNTM0bC4wMDEtLjAwMmMtLjU2MS0uMjQtMS40MjItLjc4My0xLjIyOC0xLjI5NS4xOTctLjUyIDEuNDQ0LS41MDcgMi4xOC0uMzRsNS4wNzYtOC43MiAzLjU1LTIuNTQ0LTIuMjUuMzEuMDE0LS4wMjMtMi40NTMuMjdjLS40NC4wNS0uNjU4LjA3My0uNzU0LjAwNGEuMzA0LjMwNCAwIDAxLS4xMjMtLjI3MmMuMDEtLjExNy4xNzItLjI2Ni40OTYtLjU2NCAxLjMwNS0xLjE5OCAzLjM3Mi0zLjA5IDMuNzQ3LTMuMzk4YTEuNDM4IDEuNDM4IDAgMDEyLjIwMy40NzhsNy4zMTcgMTMuNDc4Yy45MjItLjI0NCAyLjMwOC0uMzU2IDIuNDU1LjQ4OC4xMy43NDMtLjYwNyAxLjI1OS0yLjM2NyAyLjAyNC0xLjcyMy44LTQuNjY3IDEuNjQtNy45MzkgMS42NHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=)}._3vFA8--container .AeJ0I--row ._1yCun--logo ._2GogZ--stars ._1ErQY--star-1,._3vFA8--container .AeJ0I--row ._1yCun--logo ._2GogZ--stars ._2JsUk--star-2,._3vFA8--container .AeJ0I--row ._1yCun--logo ._2GogZ--stars ._181pR--star-3{position:absolute}._3vFA8--container .AeJ0I--row ._1yCun--logo ._2GogZ--stars ._1ErQY--star-1{background:url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIwIiBoZWlnaHQ9IjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbHRlcj0idXJsKCNmaWx0ZXIwX2QpIj48cGF0aCBkPSJNNTUuNjU1IDM3LjAyNWMuNDc0LTEuNjMgMi41ODYtMi4wNTUgMy42NTMtLjczNWwzLjU4NSA0LjQzNWMuNDE0LjUxMiAxLjA0My44IDEuNy43OGw1LjctLjE3OGMxLjY5OC0uMDUzIDIuNzU1IDEuODI0IDEuODI5IDMuMjQ4bC0zLjExIDQuNzhhMi4xMDIgMi4xMDIgMCAwMC0uMjE3IDEuODU4bDEuOTMxIDUuMzY2Yy41NzUgMS41OTgtLjg4NCAzLjE4My0yLjUyNCAyLjc0MmwtNS41MDctMS40ODFhMi4xMDIgMi4xMDIgMCAwMC0xLjgzNC4zNjlsLTQuNTA3IDMuNDk0Yy0xLjM0MiAxLjA0LTMuMy4xNDMtMy4zODctMS41NTNsLS4yOTQtNS42OTVhMi4xMDIgMi4xMDIgMCAwMC0uOTE3LTEuNjNsLTQuNzE3LTMuMjA3Yy0xLjQwNC0uOTU1LTEuMTU1LTMuMDk0LjQzLTMuNzAybDUuMzI3LTIuMDM4YTIuMTAyIDIuMTAyIDAgMDAxLjI2Ny0xLjM3N2wxLjU5Mi01LjQ3NnoiIGZpbGw9IiNGRkQ2MDAiLz48L2c+PGRlZnM+PGZpbHRlciBpZD0iZmlsdGVyMF9kIiB4PSIuMTI3IiB5PSItMTEuMDkiIHdpZHRoPSIxMTkuMzI3IiBoZWlnaHQ9IjExOC40NjIiIGZpbHRlclVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJzUkdCIj48ZmVGbG9vZCBmbG9vZC1vcGFjaXR5PSIwIiByZXN1bHQ9IkJhY2tncm91bmRJbWFnZUZpeCIvPjxmZUNvbG9yTWF0cml4IGluPSJTb3VyY2VBbHBoYSIgdmFsdWVzPSIwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAxMjcgMCIvPjxmZU9mZnNldC8+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iMjIiLz48ZmVDb2xvck1hdHJpeCB2YWx1ZXM9IjAgMCAwIDAgMSAwIDAgMCAwIDEgMCAwIDAgMCAxIDAgMCAwIDAuNSAwIi8+PGZlQmxlbmQgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0iZWZmZWN0MV9kcm9wU2hhZG93Ii8+PGZlQmxlbmQgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iZWZmZWN0MV9kcm9wU2hhZG93IiByZXN1bHQ9InNoYXBlIi8+PC9maWx0ZXI+PC9kZWZzPjwvc3ZnPg==");width:120px;height:56px;top:-12px;left:-103px;background-size:120px 56px}._3vFA8--container .AeJ0I--row ._1yCun--logo ._2GogZ--stars ._2JsUk--star-2{background:url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTE1IiBoZWlnaHQ9IjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbHRlcj0idXJsKCNmaWx0ZXIwX2QpIj48cGF0aCBkPSJNNTguMzg4LTUuNjljLjg4NS0xLjAyNSAyLjU1Ny0uNjMzIDIuODkzLjY3OUw2Mi40MS0uNjA2Yy4xMy41MDguNDkuOTI2Ljk3NCAxLjEzbDQuMTkzIDEuNzYxYzEuMjQ4LjUyNCAxLjM5MiAyLjIzNi4yNDggMi45NjFsLTMuODQgMi40MzVjLS40NDQuMjgtLjczLjc1My0uNzc0IDEuMjc2bC0uMzggNC41MzFjLS4xMTMgMS4zNS0xLjY5NiAyLjAxNS0yLjc0IDEuMTUxbC0zLjUwMS0yLjlhMS42NzYgMS42NzYgMCAwMC0xLjQ1My0uMzQxbC00LjQyNyAxLjA0Yy0xLjMxOC4zMDktMi40NC0uOTkyLTEuOTQxLTIuMjVsMS42NzYtNC4yMjhhMS42NzYgMS42NzYgMCAwMC0uMTI0LTEuNDg3TDQ3Ljk2NC41ODRjLS43MDItMS4xNTguMTg5LTIuNjI3IDEuNTQtMi41NDFsNC41MzguMjg4YTEuNjc2IDEuNjc2IDAgMDAxLjM3Ni0uNTc4bDIuOTctMy40NDN6IiBmaWxsPSIjRkZENjAwIi8+PC9nPjxkZWZzPjxmaWx0ZXIgaWQ9ImZpbHRlcjBfZCIgeD0iLjk2MiIgeT0iLTUyLjY2OCIgd2lkdGg9IjExMy40NzciIGhlaWdodD0iMTEyLjgyMSIgZmlsdGVyVW5pdHM9InVzZXJTcGFjZU9uVXNlIiBjb2xvci1pbnRlcnBvbGF0aW9uLWZpbHRlcnM9InNSR0IiPjxmZUZsb29kIGZsb29kLW9wYWNpdHk9IjAiIHJlc3VsdD0iQmFja2dyb3VuZEltYWdlRml4Ii8+PGZlQ29sb3JNYXRyaXggaW49IlNvdXJjZUFscGhhIiB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDEyNyAwIi8+PGZlT2Zmc2V0Lz48ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIyMiIvPjxmZUNvbG9yTWF0cml4IHZhbHVlcz0iMCAwIDAgMCAxIDAgMCAwIDAgMSAwIDAgMCAwIDEgMCAwIDAgMC41IDAiLz48ZmVCbGVuZCBpbjI9IkJhY2tncm91bmRJbWFnZUZpeCIgcmVzdWx0PSJlZmZlY3QxX2Ryb3BTaGFkb3ciLz48ZmVCbGVuZCBpbj0iU291cmNlR3JhcGhpYyIgaW4yPSJlZmZlY3QxX2Ryb3BTaGFkb3ciIHJlc3VsdD0ic2hhcGUiLz48L2ZpbHRlcj48L2RlZnM+PC9zdmc+");width:114px;height:53px;left:9px;top:-12.63px;background-size:120px 62px}._3vFA8--container .AeJ0I--row ._1yCun--logo ._2GogZ--stars ._181pR--star-3{background:url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAzIiBoZWlnaHQ9IjU2IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxnIGZpbHRlcj0idXJsKCNmaWx0ZXIwX2QpIj48cGF0aCBkPSJNNTEuODAyIDM2LjA5OGMxLjA5OS0xLjQ5MSAzLjQyLTEuMTMyIDQuMDE2LjYyMmwyLjAwMSA1Ljg4N2MuMjMxLjY4Ljc2NyAxLjIxMSAxLjQ0OCAxLjQzN2w1LjkgMS45NjFjMS43NTguNTg0IDIuMTMzIDIuOTAzLjY1IDQuMDExbC00Ljk4IDMuNzIzYTIuMjkyIDIuMjkyIDAgMDAtLjkyIDEuODIxbC0uMDQyIDYuMjE4Yy0uMDEyIDEuODUyLTIuMTAxIDIuOTI2LTMuNjE0IDEuODU4bC01LjA4LTMuNTg3YTIuMjkyIDIuMjkyIDAgMDAtMi4wMTYtLjMxMmwtNS45MjYgMS44ODJjLTEuNzY1LjU2LTMuNDMyLTEuMDk1LTIuODgzLTIuODY0bDEuODQtNS45MzlhMi4yOTIgMi4yOTIgMCAwMC0uMzI1LTIuMDE0bC0zLjYyMi01LjA1NWMtMS4wNzgtMS41MDUtLjAxOS0zLjYwMSAxLjgzMy0zLjYyNmw2LjIxOC0uMDg1YTIuMjkyIDIuMjkyIDAgMDAxLjgxNC0uOTMybDMuNjg4LTUuMDA2eiIgZmlsbD0iI0ZGRDYwMCIvPjwvZz48ZGVmcz48ZmlsdGVyIGlkPSJmaWx0ZXIwX2QiIHg9Ii43ODgiIHk9Ii0xLjUzNCIgd2lkdGg9IjEwMi4xMzUiIGhlaWdodD0iMTAxLjEyOSIgZmlsdGVyVW5pdHM9InVzZXJTcGFjZU9uVXNlIiBjb2xvci1pbnRlcnBvbGF0aW9uLWZpbHRlcnM9InNSR0IiPjxmZUZsb29kIGZsb29kLW9wYWNpdHk9IjAiIHJlc3VsdD0iQmFja2dyb3VuZEltYWdlRml4Ii8+PGZlQ29sb3JNYXRyaXggaW49IlNvdXJjZUFscGhhIiB2YWx1ZXM9IjAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDEyNyAwIi8+PGZlT2Zmc2V0Lz48ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxNy4yNDYiLz48ZmVDb2xvck1hdHJpeCB2YWx1ZXM9IjAgMCAwIDAgMSAwIDAgMCAwIDEgMCAwIDAgMCAxIDAgMCAwIDAuNSAwIi8+PGZlQmxlbmQgaW4yPSJCYWNrZ3JvdW5kSW1hZ2VGaXgiIHJlc3VsdD0iZWZmZWN0MV9kcm9wU2hhZG93Ii8+PGZlQmxlbmQgaW49IlNvdXJjZUdyYXBoaWMiIGluMj0iZWZmZWN0MV9kcm9wU2hhZG93IiByZXN1bHQ9InNoYXBlIi8+PC9maWx0ZXI+PC9kZWZzPjwvc3ZnPg==");width:114px;height:75px;left:34px;top:-12.63px;background-size:120px 57px}._3vFA8--container .AeJ0I--row ._2CXkc--title{float:left;width:-webkit-max-content;width:-moz-max-content;width:max-content;height:23px;font-family:Montserrat,sans-serif;font-style:normal;font-weight:400;font-size:18px;line-height:37px;color:#fff;text-shadow:0 0 16px #5600c5;margin-right:20px}._3vFA8--container .AeJ0I--row ._1CujY--btn{float:left;flex-direction:row;padding:6px 22px;width:111px;margin-top:-2px;height:38px;background:#ffd600;box-shadow:0 0 28px hsla(0,0%,100%,.5);border-radius:5px}._3vFA8--container .AeJ0I--row ._1CujY--btn ._2Wo2K--btnText{width:66px;height:14px;font-family:Montserrat,serif;font-style:normal;font-weight:600;font-size:11px;line-height:14px;text-align:center;letter-spacing:-.01em;color:#9645fd;align-self:center;margin:6px 0}</style></head>
+
+<body id="body-home" class="layout-h">
+  
+<header>
+  <div class="inside">
+    <div class="left">
+      <div class="logo">
+        <a href="https://adetonfo.com/"><img border="0" alt="Adetonfo.com-Free Marketplace for Ghanaians" src="./header_files/logo.jpg"></a>
+      </div>
+    </div>
+
+    <div class="right isDesktop isTablet">
+
+      
+      <a class="publish btn alpBg" href="https://adetonfo.com/item/new">
+        <span>Add listing</span>
+      </a>
+
+      <div class="header-user">
+                  <a class="profile not-logged" href="https://adetonfo.com/user/register">Register</a>
+          <span class="or">or</span>
+          <a class="profile not-logged" href="https://adetonfo.com/user/login">Log in</a>
+
+              </div>
+
+      
+      
+      
+      
+
+      <!-- PLUGINS TO HEADER -->
+      <div class="plugins">
+              </div>
+
+    </div>   
+
+    <div class="mobile-block isMobile">
+      <a href="https://adetonfo.com/#" id="m-options" class="mobile-menu" data-menu-id="#menu-options"><img src="./header_files/mobile-menu.png"></a>
+          </div>
+  </div>
+</header>
+
+
+<section class="content loc-home sec-default">
+
+<div id="home-search">
+  <div class="inside">
+    <div class="cover"></div>
+
+    <div class="slide count3 slide1" style="background-image:url(&#39;https://adetonfo.com/oc-content/themes/alpha/images/slide/slide1.jpg&#39;);"></div><div class="slide count3 slide2" style="background-image:url(&#39;https://adetonfo.com/oc-content/themes/alpha/images/slide/slide2.jpg&#39;);"></div><div class="slide count3 slide3" style="background-image:url(&#39;https://adetonfo.com/oc-content/themes/alpha/images/slide/slide3.jpg&#39;);"></div>
+
+    <div class="box">
+      <h2>Your No.1 Marketplace</h2>
+
+      <div class="wrap">
+        <form action="https://adetonfo.com/index.php" method="GET" class="nocsrf" id="home-form">
+          <input type="hidden" name="page" value="search">
+          <input type="hidden" name="sCountry" id="sCountry" value="">
+          <input type="hidden" name="sRegion" id="sRegion" value="">
+          <input type="hidden" name="sCity" id="sCity" value="">
+
+          <div class="line1">
+            <div class="col1">
+              <div class="box">
+                <div id="query-picker" class="query-picker">
+                  <input type="text" name="sPattern" class="pattern" placeholder="What are you looking for?" value="" autocomplete="off">
+
+                  <div class="shower-wrap">
+                    <div class="shower"></div>
+                  </div>
+
+                  <div class="loader"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col2">
+              <div class="box">
+                <div id="location-picker" class="loc-picker ctr-one">
+                  <input type="text" name="term" id="term" class="term" placeholder="Location" value="" autocomplete="off">
+                  <i class="fa fa-angle-down"></i>
+
+                  <div class="shower-wrap">
+                    <div class="shower" id="shower">
+                      <div class="option country init" data-country="GH" data-region="" data-city="" data-code="countryGH" id="GH"><strong>Ghana</strong></div><div class="option region init" data-country="gh" data-region="782859" data-city="" data-code="region782859" id="782859"><strong>Greater Accra</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782860" data-city="" data-code="region782860" id="782860"><strong>Western region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782861" data-city="" data-code="region782861" id="782861"><strong>Volta</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782862" data-city="" data-code="region782862" id="782862"><strong>Northern region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782863" data-city="" data-code="region782863" id="782863"><strong>Upper East region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782864" data-city="" data-code="region782864" id="782864"><strong>Upper West region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782865" data-city="" data-code="region782865" id="782865"><strong>Eastern region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782866" data-city="" data-code="region782866" id="782866"><strong>Central region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782867" data-city="" data-code="region782867" id="782867"><strong>Brong Ahafo</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782868" data-city="" data-code="region782868" id="782868"><strong>Ashanti</strong><span>Ghana</span></div>                    </div>
+                  </div>
+
+                  <div class="loader"></div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col3">
+              <div class="box">
+                <div class="simple-cat simple-select level0"><input type="hidden" id="sCategory" name="sCategory" class="input-hidden sCategory" value=""><span class="text round3 tr1"><span>Category</span> <i class="fa fa-angle-down"></i></span><div class="list" style="overflow: hidden;"><div class="option info">Choose one category</div><div class="option bold selected" data-id="">All</div><div class="option  root" data-id="1">For sale</div><div class="option  root" data-id="2">Vehicles</div><div class="option  root" data-id="4">Property</div><div class="option  root" data-id="5">Services</div><div class="option  root" data-id="3">Classes</div><div class="option  root" data-id="6">Community</div><div class="option  root" data-id="7">Relationship</div><div class="option  root" data-id="8">Jobs</div></div></div>              </div>
+            </div>
+
+            <div class="col4">
+              <div class="box"><button type="submit" class="btn alpBg">Search <i class="fa fa-angle-right"></i></button></div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  <!-- ROOT CATEGORIES -->
+  <div id="home-cat">
+    <div class="inside">
+      <div class="box">
+        <h2 class="alpBgAf">Browse categories</h2>
+
+                     
+          <a href="https://adetonfo.com/for-sale">
+            <div class="img">
+              <span style="background:#F44336;"></span>
+
+                              <img src="./header_files/1.png">
+                          </div>
+
+            <div class="name">For sale</div>
+          </a>
+                     
+          <a href="https://adetonfo.com/vehicles">
+            <div class="img">
+              <span style="background:#00BCD4;"></span>
+
+                              <img src="./header_files/2.png">
+                          </div>
+
+            <div class="name">Vehicles</div>
+          </a>
+                     
+          <a href="https://adetonfo.com/property">
+            <div class="img">
+              <span style="background:#FDE74C;"></span>
+
+                              <img src="./header_files/4.png">
+                          </div>
+
+            <div class="name">Property</div>
+          </a>
+                     
+          <a href="https://adetonfo.com/services">
+            <div class="img">
+              <span style="background:#8BC34A;"></span>
+
+                              <img src="./header_files/5.png">
+                          </div>
+
+            <div class="name">Services</div>
+          </a>
+                     
+          <a href="https://adetonfo.com/classes">
+            <div class="img">
+              <span style="background:#009688;"></span>
+
+                              <img src="./header_files/3.png">
+                          </div>
+
+            <div class="name">Classes</div>
+          </a>
+                     
+          <a href="https://adetonfo.com/community">
+            <div class="img">
+              <span style="background:#D32F2F;"></span>
+
+                              <img src="./header_files/6.png">
+                          </div>
+
+            <div class="name">Community</div>
+          </a>
+                     
+          <a href="https://adetonfo.com/relationship">
+            <div class="img">
+              <span style="background:#2196F3;"></span>
+
+                              <img src="./header_files/7.png">
+                          </div>
+
+            <div class="name">Relationship</div>
+          </a>
+                     
+          <a href="https://adetonfo.com/jobs">
+            <div class="img">
+              <span style="background:#777;"></span>
+
+                              <img src="./header_files/8.png">
+                          </div>
+
+            <div class="name">Jobs</div>
+          </a>
+              </div>
+    </div>
+  </div>
+
+
+
+
+
+<div class="flash-box">
+  <div class="flash-wrap">
+      </div>
+</div>
+
+
+
+  <div class="banner-theme banner-home_top not767 blank"><div></div></div>
+
+  
+
+  <div class="home-container tabs">
+    <div class="inner">
+      <a class="tab active" data-tab="latest">Latest</a>
+
+      
+      
+      
+          </div>
+  </div>
+
+
+
+  <div class="home-container wrap">
+    <div class="inner">
+
+      <!-- LATEST LISTINGS BLOCK -->
+      <div id="latest" class="products grid single-tab" data-tab="latest">
+        <h2>Lately added on our site</h2>
+
+        
+                  <div class="block">
+            <div class="prod-wrap">
+                                            
+<div class="simple-prod o1 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/twist-sponge_i137"><img class="lazy" src="./header_files/504_thumbnail.jpg" alt="Twist Sponge" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">15 hours ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/137?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>30.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/twist-sponge_i137">Twist Sponge</a>
+
+      <div class="description isList">Get temporal dreads with this high quality twist sponge. Suitable for all natural hair types.</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>15 hours ago</span><span class="slash">/</span> 
+        <span>1 hit</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>30.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/26">Seli</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o2 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/wig-cap-for-sale_i136"><img class="lazy" src="./header_files/503_thumbnail.jpg" alt="Wig cap for sale" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">18 hours ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/136?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>210.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/wig-cap-for-sale_i136">Wig cap for sale</a>
+
+      <div class="description isList">Buy your quality wig cap. Call 050 270 8200 to order</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>18 hours ago</span><span class="slash">/</span> 
+        <span>12 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>210.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o3 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/wig-cap_i135"><img class="lazy" src="./header_files/500_thumbnail.jpg" alt="Wig cap" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">1 day ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/135?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>300.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/wig-cap_i135">Wig cap</a>
+
+      <div class="description isList">Tuneful Brazilian Grade 9a 8inches</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>1 day ago</span><span class="slash">/</span> 
+        <span>2 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>300.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/18">Deeku’s Errything</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o4 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/vehicles/toyota-corolla-2014-model_i134"><img class="lazy" src="./header_files/489_thumbnail.jpg" alt="Toyota Corolla 2014 Model" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">1 day ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/134?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Check with seller</span></div>
+               
+      <a class="title" href="https://adetonfo.com/vehicles/toyota-corolla-2014-model_i134">Toyota Corolla 2014 Model</a>
+
+      <div class="description isList">Toyota Corolla 2014</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>1 day ago</span><span class="slash">/</span> 
+        <span>8 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>Check with seller</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/6">ELLYBILLIONSHOLDING</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o5 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/mobile-phones-tablets/infinix-s4_i133"><img class="lazy" src="./header_files/486_thumbnail.jpg" alt="Infinix S4" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">1 day ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/133?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>550.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/mobile-phones-tablets/infinix-s4_i133">Infinix S4</a>
+
+      <div class="description isList">Infinix S4 blue 32 Gig Ram 3 gig Slightly used Small craked screen Everything working good</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>1 day ago</span><span class="slash">/</span> 
+        <span>3 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>550.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o6 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/services/other-services/strandz_by_sandy_i132"><img class="lazy" src="./header_files/485_thumbnail.png" alt="strandz_by_sandy" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">1 day ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/132?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>50.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/services/other-services/strandz_by_sandy_i132">strandz_by_sandy</a>
+
+      <div class="description isList">Wig customization including frontals and closures. You can bring your own weaves as well to be customized. Affordable prices. Delivery is free on ug_campus, but at a fee outside campus</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>1 day ago</span><span class="slash">/</span> 
+        <span>4 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>50.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o7 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/oniro_i131"><img class="lazy" src="./header_files/484_thumbnail.jpg" alt="ONIRO" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">1 day ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/131?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>100.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/oniro_i131">ONIRO</a>
+
+      <div class="description isList">ONIRO perfume</div>
+
+      <div class="extra isList">
+        <span>Accra Central, Greater Accra, GH</span><span class="slash">/</span> 
+        <span>1 day ago</span><span class="slash">/</span> 
+        <span>1 hit</span>
+      </div>
+
+      <div class="location isGrid">Accra Central, Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>100.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o8 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/cellgevity_i130"><img class="lazy" src="./header_files/482_thumbnail.png" alt="Cellgevity" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">1 day ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/130?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>110.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/cellgevity_i130">Cellgevity</a>
+
+      <div class="description isList">Combines Max's Advance Riboceine Technology with 12 complimentary ingredients to help support the production and functions of glutathione. contains Soy. Take two capsules twice daily with water. This product has been manufactured in the USA in strict conformance with industry standards. Purity guaranteed. Gluten free. ...</div>
+
+      <div class="extra isList">
+        <span>Northern region, GH</span><span class="slash">/</span> 
+        <span>1 day ago</span><span class="slash">/</span> 
+        <span>5 hits</span>
+      </div>
+
+      <div class="location isGrid">Northern region, GH</div>
+
+              <div class="price isList alpCl"><span>110.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/90">Sheila Kaba</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o9 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/homefurniture-appliances/record-with-us-now_i128"><img class="lazy" src="./header_files/479_thumbnail.jpg" alt="Record with us now" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/128?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Free</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/homefurniture-appliances/record-with-us-now_i128">Record with us now</a>
+
+      <div class="description isList">Well equipped recording studio runing a promo record your audio or songs for less</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>3 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>Free</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/89">Kobi</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o10 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/body-splashes_i126"><img class="lazy" src="./header_files/474_thumbnail.jpg" alt="Body splashes" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/126?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>10.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/body-splashes_i126">Body splashes</a>
+
+      <div class="description isList">Wholesale and retail of assorted body splashes and pen perfumes</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>1 hit</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>10.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o11 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/mobile-phones-tablets/htc-m8_i125"><img class="lazy" src="./header_files/472_thumbnail.jpg" alt="HTC M8" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/125?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>500.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/mobile-phones-tablets/htc-m8_i125">HTC M8</a>
+
+      <div class="description isList">Slightly used HTC m8 fir sale at cool price. Neat and in good condition.</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>2 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>500.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o12 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/computers-hardware/lenovo-thinkpad-core2duo-deskop-computer_i124"><img class="lazy" src="./header_files/467_thumbnail.jpg" alt="Lenovo Thinkpad core2duo deskop computer" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/124?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>350.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/computers-hardware/lenovo-thinkpad-core2duo-deskop-computer_i124">Lenovo Thinkpad core2duo deskop computer</a>
+
+      <div class="description isList">Lenovo Thinkpad Core 2 duo @2.0ghz processor 4th gen 160gb HDD 2gb ram DVD rom Onboard loud speaker Very silent desktop Powerful, fast and impressive Up to 8usb ports</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>4 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>350.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/85">Suncity I.T solution</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o13 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/ladies-wear_i123"><img class="lazy" src="./header_files/465_thumbnail.jpg" alt="Ladies wear" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/123?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>15.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/ladies-wear_i123">Ladies wear</a>
+
+      <div class="description isList">Ladies tops and dresses available</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>9 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>15.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/84">Lucy Akua Okai</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o14 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/ladies-wear_i122"><img class="lazy" src="./header_files/463_thumbnail.jpg" alt="Ladies wear" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/122?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Free</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/ladies-wear_i122">Ladies wear</a>
+
+      <div class="description isList">Ladies tops and dresses</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>5 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>Free</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o15 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/slippers_i121"><img class="lazy" src="./header_files/461_thumbnail.jpg" alt="Slippers" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/121?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>150.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/slippers_i121">Slippers</a>
+
+      <div class="description isList">Yeezy slides size 39 and 43</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>8 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>150.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o16 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/sneaker_i120"><img class="lazy" src="./header_files/460_thumbnail.jpg" alt="Sneaker" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/120?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>200.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/sneaker_i120">Sneaker</a>
+
+      <div class="description isList">A fresh in box Jordan 1 orange and black laminated size 43</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>10 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>200.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o17 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/sneaker_i119"><img class="lazy" src="./header_files/458_thumbnail.jpg" alt="Sneaker" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/119?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>220.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/sneaker_i119">Sneaker</a>
+
+      <div class="description isList">Fresh in box Jordan 11 Gold and white size 43</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>5 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>220.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o18 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/white-jordan-23_i118"><img class="lazy" src="./header_files/456_thumbnail.jpg" alt="White Jordan 23" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">2 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/118?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>220.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/white-jordan-23_i118">White Jordan 23</a>
+
+      <div class="description isList">Brand new in box white Jordan 23 size 41</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>2 days ago</span><span class="slash">/</span> 
+        <span>5 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>220.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o19 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/mcwayne-fashion-parlour_i117"><img class="lazy" src="./header_files/455_thumbnail.jpg" alt="McWayne Fashion Parlour" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/117?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Check with seller</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/mcwayne-fashion-parlour_i117">McWayne Fashion Parlour</a>
+
+      <div class="description isList">Admission! Admission!! Admission!!! McWayne Fashion Parlour is in progress given out admissions to all who want to be fashion designers. Admissions will be given free to first two students(Apprentice) to apply. Working Hours : Mondays-Fridays(8:00am-4:30pm) Saturdays(9:00am-4:00pm) for more INFO contact 0249296761 / 02...</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>3 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>Check with seller</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/71">McWayne Fashion Parlour</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o20 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/sneakers_i116"><img class="lazy" src="./header_files/447_thumbnail.jpg" alt="Sneakers ????" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/116?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>250.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/sneakers_i116">Sneakers ????</a>
+
+      <div class="description isList">I deal in all kinds of sneakers ???? and some are negotiable my office is located in Ashaiman Poly Clinic Area.</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>5 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>250.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/82">Fremix Royal</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o21 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/services/health-beauty-fitness/natural-medicine-for-all-your-health-problem_i115"><img class="lazy" src="./header_files/440_thumbnail.png" alt="Natural medicine for all your health problem" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/115?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>380.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/services/health-beauty-fitness/natural-medicine-for-all-your-health-problem_i115">Natural medicine for all your health problem</a>
+
+      <div class="description isList">We help people who are dealing with problems like ,Daibetis, Gonorrhea,High blood pressure,poor performance in bed.infertility problems,poor eye vision,weight loss and weight gain,enhancing your body by gaining curves and so many other.Our product is a natural organic product which is made from aloe vera and has no sid...</div>
+
+      <div class="extra isList">
+        <span>Accra new Town, Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>6 hits</span>
+      </div>
+
+      <div class="location isGrid">Accra new Town, Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>380.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o22 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/dresses-shoes-and-bags_i114"><img class="lazy" src="./header_files/432_thumbnail.png" alt="Dresses,shoes and bags" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/114?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Check with seller</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/dresses-shoes-and-bags_i114">Dresses,shoes and bags</a>
+
+      <div class="description isList">We sell classic dresses ,original bags and shoes to make you look classic. Our products are very affordable ,we do deliveries accross Accra Ghana.we are secure, reliable and trustworthy. Pamper yourself with our classic dresses ????????????????????</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>8 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>Check with seller</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o23 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/eyeshadow-palette_i113"><img class="lazy" src="./header_files/430_thumbnail.jpg" alt="Eyeshadow Palette" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/113?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>55.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/eyeshadow-palette_i113">Eyeshadow Palette</a>
+
+      <div class="description isList">Eyeshadow palette with 64 different colors. Also contains blush for rosy cheeks and contour powder for a slender face.</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>9 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>55.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/26">Seli</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o24 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/pure-natural-honey_i112"><img class="lazy" src="./header_files/429_thumbnail.jpg" alt="Pure Natural Honey" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/112?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>50.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/pure-natural-honey_i112">Pure Natural Honey</a>
+
+      <div class="description isList">Natural honey from the wild for you to enjoy. Has the ability to reduce your sugar levels and boost ones immune system. Get one now!!!!</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>10 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>50.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o25 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/homefurniture-appliances/fruit-blender-and-mason-jars-available-at-cool-prices_i111"><img class="lazy" src="./header_files/422_thumbnail.jpg" alt="Fruit blender and mason jars available at cool prices" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/111?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>20.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/homefurniture-appliances/fruit-blender-and-mason-jars-available-at-cool-prices_i111">Fruit blender and mason jars available at cool prices</a>
+
+      <div class="description isList">Fruit blender and mason jars available at cool prices</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>16 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>20.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o26 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/books-magazines/customized-and-non-customized-books_i110"><img class="lazy" src="./header_files/418_thumbnail.jpg" alt="Customized and non customized books" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/110?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>40.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/books-magazines/customized-and-non-customized-books_i110">Customized and non customized books</a>
+
+      <div class="description isList">Customized and non customized books available in different size as seen. Customized books are 40.00ghs Non customized books for the Big ones are 25.00ghs and the Small ones are 20.00ghs It is negotiable</div>
+
+      <div class="extra isList">
+        <span>Volta, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>8 hits</span>
+      </div>
+
+      <div class="location isGrid">Volta, GH</div>
+
+              <div class="price isList alpCl"><span>40.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/75">Ama Vee</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o27 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/mefirigh-medical-scrubs_i109"><img class="lazy" src="./header_files/410_thumbnail.jpg" alt="Mefirigh Medical Scrubs" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/109?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>80.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/mefirigh-medical-scrubs_i109">Mefirigh Medical Scrubs</a>
+
+      <div class="description isList">We are a Ghanaian based scrub wear making company. We specialized in producing locally made scrub wear for midwives, nurses and doctors nationwide. We take your measurements, your preferred color and deliver nationwide to you at a very affordable price. You can describe our scrubs as a blend of professional and cultura...</div>
+
+      <div class="extra isList">
+        <span>Ashanti, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>8 hits</span>
+      </div>
+
+      <div class="location isGrid">Ashanti, GH</div>
+
+              <div class="price isList alpCl"><span>80.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o28 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/electronics/iphone-6s-for-sale_i108"><img class="lazy" src="./header_files/408_thumbnail.jpg" alt="iPhone 6s for sale" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/108?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>650.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/electronics/iphone-6s-for-sale_i108">iPhone 6s for sale</a>
+
+      <div class="description isList">New but accessories not available I sell other phones too</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>28 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>650.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/70">Felix</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o29 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/mcwayne-fashion-parlour_i107"><img class="lazy" src="./header_files/407_thumbnail.jpg" alt="McWayne Fashion Parlour" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/107?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Free</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/mcwayne-fashion-parlour_i107">McWayne Fashion Parlour</a>
+
+      <div class="description isList">Experts In : *Apprenticeship -Exclusive Fashion Styles *Kaba dresses *Long dresses *Office Wear(African) *Jumpsuits *Wedding Gowns &amp; many more</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>8 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>Free</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o30 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/everything-else/perfumes_i106"><img class="lazy" src="./header_files/402_thumbnail.jpg" alt="Perfumes" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/106?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>150.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/everything-else/perfumes_i106">Perfumes</a>
+
+      <div class="description isList">Authentic and affordable perfumes</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>4 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>150.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o31 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/polo-shirts_i105"><img class="lazy" src="./header_files/394_thumbnail.jpg" alt="Polo Shirts" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/105?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>100.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/polo-shirts_i105">Polo Shirts</a>
+
+      <div class="description isList">Original Polo Shirt 100% Cotton Easy to wash Very Comfortable Durable Affordable All Colours Available All Sizes Available</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>9 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>100.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o32 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/tube-tops_i104"><img class="lazy" src="./header_files/386_thumbnail.jpg" alt="Tube Tops" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/104?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>30.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/tube-tops_i104">Tube Tops</a>
+
+      <div class="description isList">100% Original Ghanaian made tube top Easy to wash Easy to wear Very Comfortable Doesn't Fade All Sizes Available All Colours Available</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>9 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>30.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o33 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/everything-else/gift-bags_i103"><img class="lazy" src="./header_files/384_thumbnail.jpg" alt="Gift bags" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/103?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>2.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/everything-else/gift-bags_i103">Gift bags</a>
+
+      <div class="description isList">Paper bags you can put gifts in for your love ones</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>10 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>2.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/67">Nana Oduro</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o34 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/everything-else/fragrant-liquid-soap_i102"><img class="lazy" src="./header_files/382_thumbnail.jpg" alt="Fragrant Liquid Soap" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">3 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/102?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>12.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/everything-else/fragrant-liquid-soap_i102">Fragrant Liquid Soap</a>
+
+      <div class="description isList">1 litre Fresh liquid soap available in different flavors</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>3 days ago</span><span class="slash">/</span> 
+        <span>6 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>12.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/65">Enos Baiden</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o35 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/oniro_i101"><img class="lazy" src="./header_files/381_thumbnail.jpg" alt="ONIRO" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/101?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>120.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/oniro_i101">ONIRO</a>
+
+      <div class="description isList">ONIRO eau de parfum 100ml natural spray from fragrance world</div>
+
+      <div class="extra isList">
+        <span>Central region, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>3 hits</span>
+      </div>
+
+      <div class="location isGrid">Central region, GH</div>
+
+              <div class="price isList alpCl"><span>120.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o36 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/pretty-trendz_i100"><img class="lazy" src="./header_files/373_thumbnail.jpg" alt="Pretty Trendz" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/100?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Check with seller</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/pretty-trendz_i100">Pretty Trendz</a>
+
+      <div class="description isList">We deal in dinner wears,heels and wooden watches... There'll be a name your price promo on 10th of this month..You can follow us on pretty trends on Instagram to keep updated.</div>
+
+      <div class="extra isList">
+        <span></span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>4 hits</span>
+      </div>
+
+      <div class="location isGrid"></div>
+
+              <div class="price isList alpCl"><span>Check with seller</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o37 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/services/health-beauty-fitness/waist-trainers_i99"><img class="lazy" src="./header_files/371_thumbnail.jpg" alt="Waist trainers" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/99?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>57.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/services/health-beauty-fitness/waist-trainers_i99">Waist trainers</a>
+
+      <div class="description isList">This is what celebs and everyone else is using to shape up ???? Get yours and trim your tummy to look twice or thrice smaller than you were in 2-3 weeks</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>7 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>57.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/55">Boatemaa</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o38 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/homefurniture-appliances/barbecue-grill_i98"><img class="lazy" src="./header_files/370_thumbnail.jpg" alt="Barbecue grill" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/98?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>70.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/homefurniture-appliances/barbecue-grill_i98">Barbecue grill</a>
+
+      <div class="description isList">Barbecue grill for sald</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>6 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>70.00 GH₵</span></div>
+      
+              <a class="user isList" href="https://adetonfo.com/user/profile/63">Adepa</a>
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o39 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/services/other-services/frozen-bytes_i97"><img class="lazy" src="./header_files/369_thumbnail.jpg" alt="Frozen bytes" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/97?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>20.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/services/other-services/frozen-bytes_i97">Frozen bytes</a>
+
+      <div class="description isList">We have frozen spring rolls and samosa with other pastries.</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>9 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>20.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o40 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/brown-orchid-rose-edition_i96"><img class="lazy" src="./header_files/368_thumbnail.jpg" alt="Brown Orchid Rose Edition" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/96?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>120.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/brown-orchid-rose-edition_i96">Brown Orchid Rose Edition</a>
+
+      <div class="description isList">Brown Orchid Rose Edition is a long lasting EDP for women that leaves you smelling good all day.</div>
+
+      <div class="extra isList">
+        <span>Central region, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>4 hits</span>
+      </div>
+
+      <div class="location isGrid">Central region, GH</div>
+
+              <div class="price isList alpCl"><span>120.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o41 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/explore-club_i95"><img class="lazy" src="./header_files/367_thumbnail.jpg" alt="Explore CLUB" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/95?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>150.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/explore-club_i95">Explore CLUB</a>
+
+      <div class="description isList">Explore CLUB is a unisex long lasting perfume that keeps you smelling good all day. It comes in a 100ml bottle worthy of the amount.</div>
+
+      <div class="extra isList">
+        <span>Central region, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>6 hits</span>
+      </div>
+
+      <div class="location isGrid">Central region, GH</div>
+
+              <div class="price isList alpCl"><span>150.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o42 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/homefurniture-appliances/hooks_i94"><img class="lazy" src="./header_files/366_thumbnail.jpg" alt="Hooks" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/94?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>10.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/homefurniture-appliances/hooks_i94">Hooks</a>
+
+      <div class="description isList">Wall hooks for sale</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>7 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>10.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o43 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/homefurniture-appliances/kitchen-wares_i93"><img class="lazy" src="./header_files/365_thumbnail.jpg" alt="Kitchen wares" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/93?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Check with seller</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/homefurniture-appliances/kitchen-wares_i93">Kitchen wares</a>
+
+      <div class="description isList">Get all your nice nonstick saucepans and all kitchen stuffs at a cool Price</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>6 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>Check with seller</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o44 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/homefurniture-appliances/kitchen-tools_i92"><img class="lazy" src="./header_files/364_thumbnail.jpg" alt="Kitchen tools" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/92?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>12.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/homefurniture-appliances/kitchen-tools_i92">Kitchen tools</a>
+
+      <div class="description isList">Bamboo kitchen tools for sale 3set</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>2 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>12.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o45 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/fashion/shoes_i91"><img class="lazy" src="./header_files/362_thumbnail.jpg" alt="Shoes" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/91?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>30.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/fashion/shoes_i91">Shoes</a>
+
+      <div class="description isList">Female shoe for sale Size 5 (37/38)</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>4 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>30.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o46 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/susu-containers_i90"><img class="lazy" src="./header_files/360_thumbnail.jpg" alt="Susu containers" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/90?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>15.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/susu-containers_i90">Susu containers</a>
+
+      <div class="description isList">Susu containers for sale Available as seen</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>14 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>15.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o47 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/health-beauty/cellgivity_i89"><img class="lazy" src="./header_files/359_thumbnail.jpg" alt="CELLGIVITY" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/89?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>110.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/health-beauty/cellgivity_i89">CELLGIVITY</a>
+
+      <div class="description isList">group of eye disorders that can lead to vision loss (glaucoma). Aging. Alcohol use disorder. Alzheimer disease. Anemia. Asthma. Athletic performance. Cancer. Cataracts. Chronic fatigue syndrome (CFS). Conditions in a man that prevent him from getting a woman pregnant within a year of trying to conceive (male infertilit...</div>
+
+      <div class="extra isList">
+        <span>Greater Accra, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>5 hits</span>
+      </div>
+
+      <div class="location isGrid">Greater Accra, GH</div>
+
+              <div class="price isList alpCl"><span>110.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o48 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/art-collectibles/pencil-portrait_i88"><img class="lazy" src="./header_files/354_thumbnail.jpg" alt="Pencil portrait" style="display: inline; transition: all 0.2s ease 0s;"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/88?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>130.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/art-collectibles/pencil-portrait_i88">Pencil portrait</a>
+
+      <div class="description isList">Beautifully drawn and well framed pencil arts as gifts for your loved ones on special occasions Leave that remarkable memory of you in their lives Call or WhatsApp to place your orders 0559054394</div>
+
+      <div class="extra isList">
+        <span>Ashanti, GH</span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>5 hits</span>
+      </div>
+
+      <div class="location isGrid">Ashanti, GH</div>
+
+              <div class="price isList alpCl"><span>130.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o49 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/for-sale/home-furniture-garden-supplies/brown-rice_i87"><img class="lazy" src="./header_files/no-image.png" data-src="https://adetonfo.com/oc-content/uploads/0/353_thumbnail.jpg" alt="Brown rice"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/87?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>30.00 GH₵</span></div>
+               
+      <a class="title" href="https://adetonfo.com/for-sale/home-furniture-garden-supplies/brown-rice_i87">Brown rice</a>
+
+      <div class="description isList">Healthy meal Highly nutritious and recommended Ideal for diabetics Package in 5kg Call or WhatsApp 0559054394</div>
+
+      <div class="extra isList">
+        <span></span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>7 hits</span>
+      </div>
+
+      <div class="location isGrid"></div>
+
+              <div class="price isList alpCl"><span>30.00 GH₵</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                              
+<div class="simple-prod o50 ">
+  <div class="simple-wrap">
+           
+
+    <div class="img-wrap">
+              <a class="img" href="https://adetonfo.com/jobs/sales/water-pumps-and-power-tools_i86"><img class="lazy" src="./header_files/no-image.png" data-src="https://adetonfo.com/oc-content/uploads/0/352_thumbnail.png" alt="Water pumps and power tools"></a>
+      
+      <div class="publish isGrid">4 days ago</div>
+
+      
+              <a class="preview" href="https://adetonfo.com/item/send-friend/86?type=itemviewer"><i class="fa fa-search"></i><span>Preview</span></a>
+          </div>
+
+    <div class="data">
+              <div class="price isGrid"><span>Check with seller</span></div>
+               
+      <a class="title" href="https://adetonfo.com/jobs/sales/water-pumps-and-power-tools_i86">Water pumps and power tools</a>
+
+      <div class="description isList">Tools &amp; accessories</div>
+
+      <div class="extra isList">
+        <span></span><span class="slash">/</span> 
+        <span>4 days ago</span><span class="slash">/</span> 
+        <span>12 hits</span>
+      </div>
+
+      <div class="location isGrid"></div>
+
+              <div class="price isList alpCl"><span>Check with seller</span></div>
+      
+          </div>
+
+  </div>
+</div>                
+                                          </div>
+          </div>
+        
+        
+              </div>
+
+
+
+      
+ 
+      
+
+
+      
+
+      
+
+
+
+    </div>
+  </div>
+
+  <div class="banner-theme banner-home_bottom not767 blank"><div></div></div>
+
+  </section>
+
+  <a class="mobile-post isMobile alpBg" href="https://adetonfo.com/item/new"><i class="fa fa-plus"></i></a>
+
+
+
+<footer>
+  <div class="inside">
+    <div class="line1">
+      <div class="col1 share">
+        <strong>Stay connected</strong>
+
+
+        
+        <div class="cont">
+          
+          <span class="facebook"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fadetonfo.com%2F" title="Share us on Facebook" target="_blank"><i class="fa fa-facebook"></i></a></span>
+          <span class="pinterest"><a href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fadetonfo.com%2F&amp;media=https://adetonfo.com/oc-content/themes/alpha/images/logo.jpg&amp;description=" title="Share us on Pinterest" target="_blank"><i class="fa fa-pinterest"></i></a></span>
+          <span class="twitter"><a href="https://twitter.com/home?status=https%3A%2F%2Fadetonfo.com%2F%20-%20your%20classifieds" title="Tweet us" target="_blank"><i class="fa fa-twitter"></i></a></span>
+          <span class="google-plus"><a href="https://plus.google.com/share?url=https%3A%2F%2Fadetonfo.com%2F" title="Share us on Google+" target="_blank"><i class="fa fa-google-plus"></i></a></span>
+        </div>
+      </div>
+
+
+      <div class="col2">
+        <div class="cont">Widely known as Ghana's online classifieds platform, our priority is all about you. Our aim is to empower every person in the country to independently connect with buyers and sellers online.</div>
+      </div>
+
+      <div class="col3">
+                  <a class="profile not-logged btn alpBg" href="https://adetonfo.com/user/login">Sign in</a>
+        
+        
+                  <div class="locale">
+                          <a href="https://adetonfo.com/language/en_US" class="active" title="English">US</a>
+                      </div>
+              </div>
+    </div>
+
+    <div class="line2">
+      <div class="left">
+        © 2020 Adetonfo Classifieds. All rights reserved.
+      </div>
+
+      <div class="right">
+                          <a href="https://adetonfo.com/privacy-policy-p24">Privacy Policy</a>
+        
+                  <a href="https://adetonfo.com/">Adetonfo.com</a>
+         
+
+        <a href="https://adetonfo.com/contact">Contact us</a>
+      </div>
+    </div>
+
+    <div class="footer-hook"><script type="text/javascript">$(".flashmessage .ico-close").click(function(){$(this).parent().hide();});</script></div>
+  </div>
+</footer>
+
+
+  <a id="scroll-to-top"><img src="./header_files/scroll-to-top.png"></a>
+
+
+
+
+<!-- MOBILE BLOCKS -->
+<div id="menu-cover" class="mobile-box"></div>
+
+
+<div id="menu-options" class="mobile-box">
+  <div class="head alpBg">
+    <strong>
+      Welcome!    </strong>
+
+    <a href="https://adetonfo.com/#" class="mclose"><i class="fa fa-times"></i></a>
+  </div>
+
+  <div class="body">
+    <a class="publish" href="https://adetonfo.com/item/new">Add a new listing</a>
+
+          <a href="https://adetonfo.com/user/register?move=login">Log in</a>
+      <a href="https://adetonfo.com/user/register?move=register">Register a new account</a>
+
+    
+    <a href="https://adetonfo.com/contact">Contact</a>
+
+    
+  </div>
+</div>
+
+
+
+
+<script>
+  $(document).ready(function(){
+
+    // JAVASCRIPT AJAX LOADER FOR LOCATIONS 
+    var termClicked = false;
+    var currentCountry = "";
+    var currentRegion = "";
+    var currentCity = "";
+
+
+    // On first click initiate loading
+    /*
+    $('body').on('click', '.loc-picker .term', function() {
+      if( !termClicked ) {
+        $(this).keyup();
+      }
+
+      termClicked = true;
+    });
+    */
+
+    // Create delay
+    var delay = (function(){
+      var timer = 0;
+      return function(callback, ms){
+        clearTimeout (timer);
+        timer = setTimeout(callback, ms);
+      };
+    })();
+
+
+    $(document).ajaxSend(function(evt, request, settings) {
+      var url = settings.url;
+
+      if (url.indexOf("ajaxLoc") >= 0) {
+        $(".loc-picker, .location-picker").addClass('searching');
+      }
+    });
+
+    $(document).ajaxStop(function() {
+      $(".loc-picker, .location-picker").removeClass('searching');
+    });
+
+
+
+    $('body').on('keyup', '.loc-picker .term', function(e) {
+
+      delay(function(){
+        var min_length = 1;
+        var elem = $(e.target);
+        var term = encodeURIComponent(elem.val());
+
+        // If comma entered, remove characters after comma including
+        if(term.indexOf(',') > 1) {
+          term = term.substr(0, term.indexOf(','));
+        }
+
+        // If comma entered, remove characters after - including (because city is shown in format City - Region)
+        if(term.indexOf(' - ') > 1) {
+          term = term.substr(0, term.indexOf(' - '));
+        }
+
+        var block = elem.closest('.loc-picker');
+        var shower = elem.closest('.loc-picker').find('.shower');
+
+        shower.html('');
+
+        if(term != '' && term.length >= min_length) {
+          // Combined ajax for country, region & city
+          $.ajax({
+            type: "POST",
+            url: baseAjaxUrl + "&ajaxLoc=1&term=" + term,
+            dataType: 'json',
+            success: function(data) {
+              var length = data.length;
+              var result = '';
+              var result_first = '';
+              var countCountry = 0;
+              var countRegion = 0;
+              var countCity = 0;
+
+
+              if(shower.find('.service.min-char').length <= 0) {
+                for(key in data) {
+
+                  // Prepare location IDs
+                  var id = '';
+                  var country_code = '';
+                  if( data[key].country_code ) {
+                    country_code = data[key].country_code;
+                    id = country_code;
+                  }
+
+                  var region_id = '';
+                  if( data[key].region_id ) {
+                    region_id = data[key].region_id;
+                    id = region_id;
+                  }
+
+                  var city_id = '';
+                  if( data[key].city_id ) {
+                    city_id = data[key].city_id;
+                    id = city_id;
+                  }
+                    
+
+                  // Count cities, regions & countries
+                  if (data[key].type == 'city') {
+                    countCity = countCity + 1;
+                  } else if (data[key].type == 'region') {
+                    countRegion = countRegion + 1;
+                  } else if (data[key].type == 'country') {
+                    countCountry = countCountry + 1;
+                  }
+
+
+                  // Find currently selected element
+                  var selectedClass = '';
+                  if( 
+                    data[key].type == 'country' && parseInt(currentCountry) == parseInt(data[key].country_code) 
+                    || data[key].type == 'region' && parseInt(currentRegion) == parseInt(data[key].region_id) 
+                    || data[key].type == 'city' && parseInt(currentCity) == parseInt(data[key].city_id) 
+                  ) { 
+                    selectedClass = ' selected'; 
+                  }
+
+
+                  // For cities, get region name
+                  var nameTop = '';
+                  if(data[key].name_top ) {
+                    nameTop = ' <span>' + data[key].name_top + '</span>';
+                  }
+
+
+                  if(data[key].type != 'city_more') {
+
+                    // When classic city, region or country in loop and same does not already exists
+                    if(shower.find('div[data-code="' + data[key].type + data[key].id + '"]').length <= 0) {
+                      result += '<div class="option ' + data[key].type + selectedClass + '" data-country="' + country_code + '" data-region="' + region_id + '" data-city="' + city_id + '" data-code="' + data[key].type + id + '" id="' + id + '"><strong>' + data[key].name + '</strong>' + nameTop + '</div>';
+                    }
+
+                  } else {
+
+                    // When city counter and there is more than 12 cities for search
+                    /*
+                    if(shower.find('.more-city').length <= 0) {
+                      if( parseInt(data[key].name) > 0 ) {
+                        result += '<div class="option service more-pick more-city city">... ' + (data[key].name) + ' more cities, specify your location</div>';
+                      }
+                    }
+                    */
+                  }
+                }
+
+
+                // No city, region or country found
+                /*
+                if( countCountry == 0 && shower.find('.empty-country').length <= 0 && shower.find('.service.min-char').length <= 0) {
+                  shower.find('.option.country').remove();
+                  result_first += '<div class="option service empty-pick empty-country country">No country match to your criteria</div>';
+                }
+
+                if( countRegion == 0 && shower.find('.empty-region').length <= 0 && shower.find('.service.min-char').length <= 0) {
+                  shower.find('.option.region').remove();
+                  result_first += '<div class="option service empty-pick empty-region region">No region match to your criteria</div>';
+                }
+
+                if( countCity == 0 && shower.find('.empty-city').length <= 0 && shower.find('.service.min-char').length <= 0) {
+                  shower.find('.option.city').remove();
+                  result_first += '<div class="option service empty-pick empty-city city">No city match to your criteria</div>';
+                }
+                */
+
+                if( countCity == 0 && countRegion == 0 && countCountry == 0 && shower.find('.empty-loc').length <= 0 && shower.find('.service.min-char').length <= 0) {
+                  shower.find('.option').remove();
+                  result_first += '<div class="option service empty-pick empty-loc">No location match to your criteria</div>';
+                }
+              }
+
+              shower.html(result_first + result);
+            }
+          });
+
+        } else {
+          // Term is not length enough, show default content
+          //shower.html('<div class="option service min-char">Enter at least ' + (min_length - term.length) + ' more letter(s)</div>');
+
+          shower.html('<div class="option country init" data-country="GH" data-region="" data-city="" data-code="countryGH" id="GH"><strong>Ghana</strong></div><div class="option region init" data-country="gh" data-region="782859" data-city="" data-code="region782859" id="782859"><strong>Greater Accra</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782860" data-city="" data-code="region782860" id="782860"><strong>Western region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782861" data-city="" data-code="region782861" id="782861"><strong>Volta</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782862" data-city="" data-code="region782862" id="782862"><strong>Northern region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782863" data-city="" data-code="region782863" id="782863"><strong>Upper East region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782864" data-city="" data-code="region782864" id="782864"><strong>Upper West region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782865" data-city="" data-code="region782865" id="782865"><strong>Eastern region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782866" data-city="" data-code="region782866" id="782866"><strong>Central region</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782867" data-city="" data-code="region782867" id="782867"><strong>Brong Ahafo</strong><span>Ghana</span></div><div class="option region init" data-country="gh" data-region="782868" data-city="" data-code="region782868" id="782868"><strong>Ashanti</strong><span>Ghana</span></div>');
+        }
+      }, 500 );
+    });
+
+
+
+
+
+
+  });
+</script>
+	</body></html>
